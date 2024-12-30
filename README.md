@@ -124,4 +124,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-For any inquiries or contributions, please contact Muhammad Sobri Maulana at [your-email@example.com].
+For any inquiries or contributions, please contact Muhammad Sobri Maulana at [muhammadsobrimaulana31@gmail.com].
